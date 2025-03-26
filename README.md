@@ -59,9 +59,12 @@
 <br>
 
 ## By the way here are some of my statistics 🚀
-  ![Juan-Ulcuango's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Ulcuango&theme=tokyonight" alt="mystreak"/>
-![Juan-Ulcuango's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ulcuango&theme=tokyonight&layout=compact)
+[![Juan-Ulcuango's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Juan-Ulcuango&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Juan-Ulcuango's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&theme=tokyonight) | ![Juan-Ulcuango GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Ulcuango&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ulcuango&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 🌱 I'm currently learning flutter for mobile development <img width="30px" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter Logo">
 
