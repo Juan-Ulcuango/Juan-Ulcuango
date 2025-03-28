@@ -59,24 +59,44 @@
 <br>
 
 ## By the way here are some of my statistics 🚀
-[![Juan-Ulcuango's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Juan-Ulcuango&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Juan-Ulcuango's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&theme=tokyonight) | ![Juan-Ulcuango GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Ulcuango&theme=tokyonight) |
+| <a href="https://github.com/Juan-Ulcuango"><img alt="Aman's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Juan-Ulcuango&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/></a> | <a href="https://github.com/Juan-Ulcuango"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/></a> |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ulcuango&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ulcuango&theme=dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Juan-Ulcuango&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
 
 
 🌱 I'm currently learning flutter for mobile development <img width="30px" src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter Logo">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- 
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/Juan-Ulcuango/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Juan-Ulcuango&repo=CICI&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
+  <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
+  <a href="https://github.com/amangupta143/BigMart-Sales-Prediction">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+  </a>
+  </br>
+-->
+
+<a href="https://github.com/Juan-Ulcuango?tab=repositories"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+  </p>
+  <p align="right">
+    <a href="https://github.com/Juan-Ulcuango?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
 
 
 ### <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juan-ulcuango-b330252b2/"><img src="https://img.shields.io/badge/-Juan%20Ulcuango-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-ulcuango-b330252b2/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ulcuangoulcuango@gmail.com"><img src="https://img.shields.io/badge/-ulcuangoulcuango@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ulcuangoandrimbajuan/"><img src="https://img.shields.io/badge/-@ulcuangoandrimbajuan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/juan.ulcuango.7/"><img src="https://img.shields.io/badge/-@juanulcuango-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/593979053846"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
 </p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
